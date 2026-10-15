@@ -147,4 +147,4 @@ The conversion follows these rules:
 
 ## 📚 Conclusion
 
-This project demonstrates the practical application of **combinational logic in automation systems**. By using Boolean logic, truth tables, and logic gates, an automatic system for controlling street lights can be designed and simulated effectively.
+This project demonstrates the practical application of **combinational logic in automation systems**. By using Boolean logic, truth tables, and logic gates, an automatic system for controlling street lights can be designed and simulated effectively. The Gray to Binary Code Converter successfully converts Gray code into its equivalent binary code using XOR logic, demonstrating an important concept in digital electronics.
